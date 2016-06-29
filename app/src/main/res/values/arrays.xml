@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activity">
+        <item>Posted a question on Udacity </item>
+        <item>Posted an answer on Udacity </item>
+        <item>Help a team on Slack</item>
+        <item>Deliverd assinments</item>
+        <item>Finished lesson on Time</item>
+    </string-array>
+    <string-array name="status">
+        <item>append</item>
+        <item>approved</item>
+        <item>rejected></item>
+    </string-array>
+    <string-array name="user">
+        <item>Student</item>
+        <item>Leader</item>
+    </string-array>
+
+</resources>
